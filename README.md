@@ -1,1 +1,3 @@
-# checkout-process-workshop
+# Checkout Process Workshop
+
+Process workshop held by Makers Academy.
